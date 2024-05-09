@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : i2c_master_top
+Version: V-2023.12
+Date   : Tue May  7 13:57:37 2024
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    saed90nm_max_lth (File: /home/vlsi/Desktop/i2c_project/SAED90nm_EDK_10072017/SAED90_EDK/SAED_EDK90nm/Digital_Standard_cell_Library/synopsys/models/saed90nm_max_lth.db)
+
+Number of ports:                          185
+Number of nets:                           815
+Number of cells:                          576
+Number of combinational cells:            413
+Number of sequential cells:               153
+Number of macros/black boxes:               0
+Number of buf/inv:                         71
+Number of references:                      19
+
+Combinational area:               3733.401596
+Buf/Inv area:                      392.601610
+Noncombinational area:            4827.340860
+Macro/Black Box area:                0.000000
+Net Interconnect area:             505.996772
+
+Total cell area:                  8560.742456
+Total area:                       9066.739228
+1
